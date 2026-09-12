@@ -4,4 +4,4 @@ Software Engineer at [Zup](https://www.zup.com.br). Building the backend for Ita
 
 Check out my blog at [chromafish.net](https://chromafish.net).
 
-Reach me on [linkedin.com/in/thales-ms](https://www.linkedin.com/in/thales-ms)! 
+Reach me out on [linkedin.com/in/thales-ms](https://www.linkedin.com/in/thales-ms)! 
