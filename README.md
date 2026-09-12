@@ -1,7 +1,7 @@
 # Thales
 
-Software Engineer at [Zup](https://www.zup.com.br) — building the backend for Itaú Unibanco's credit card offer engine.
+Software Engineer at [Zup](https://www.zup.com.br). Building the backend for Itaú Unibanco's credit card offer engine.
 
-- [chromafish.net](https://chromafish.net)
-- [linkedin.com/in/thales-ms](https://www.linkedin.com/in/thales-ms)
-- [github.com/chromafish/check](https://github.com/chromafish/check) — A review tool
+Check out my blog at [chromafish.net](https://chromafish.net).
+
+Reach me on [linkedin.com/in/thales-ms](https://www.linkedin.com/in/thales-ms)! 
